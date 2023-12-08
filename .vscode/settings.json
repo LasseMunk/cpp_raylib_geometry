@@ -1,0 +1,8 @@
+{
+	"files.associations": {
+		"type_traits": "cpp",
+		"xstring": "cpp",
+		"xutility": "cpp",
+		"xiosbase": "cpp"
+	}
+}
